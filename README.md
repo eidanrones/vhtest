@@ -1,4 +1,7 @@
 # vhtest
-Simple code that displays the height of the viewport.
 
-Open index.html in browser and simply resize the window to see the change.
+VHTest displays the height of the viewport in px. 
+It is dynamically updated on resize event via Javascript.
+
+Working demo
+https://codepen.io/delgar/pen/RYapOo
